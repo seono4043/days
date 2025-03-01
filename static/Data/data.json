@@ -16,5 +16,19 @@
                 "value":"As per Maslow hierarchy of need, people have different level of things which keeps them sane and give their mind peace, but at this current state, I believe I had just achieved all but backwards, I have messed up my life, my health, my mental state, any dreams, now its just that my lifeless body remains, do I have hope, maybe not."
             }
         ]
+    },
+    {
+        "id": 122025,
+        "date":"March 1, 2025",
+        "items":[
+            {
+                "type":"image",
+                "value":["https://news.stanford.edu/__data/assets/image/0022/47542/Birds_culture-1-copy.jpeg"]
+            },
+            {
+                "type":"text",
+                "value":"I hear words chirping in distance, i wish today to better than yesterday. I woke up early today and am feeling delight and few hope against my fight with absurdity."
+            }
+        ]
     }
 ]
